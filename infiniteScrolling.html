@@ -23,11 +23,8 @@
     </div>
     <script>
             const container = document.querySelector('.container');
-
             const URL = 'https://dog.ceo/api/breeds/image/random'
-
             // get the images
-
             function loadImages(numImages = 25) {
                 let i = 0;
                 while (i < numImages) {
@@ -41,11 +38,7 @@
                     i++;
                 }
             }
-
             loadImages();
-
-
-
             // listen for scroll event and load more images if we reach the bottom of window
             window.addEventListener('scroll', () => {
                 console.log("scrolled", window.scrollY) //scrolled from top

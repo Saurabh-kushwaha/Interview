@@ -1,5 +1,5 @@
 Q. how to add comments on css?
-A.  /*   */
+A.  /*   */ or // or <!-- -->
 
 Q. Why do we use pseudo-class?
 A. pseudo-class use to define special state of and element
