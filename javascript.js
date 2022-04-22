@@ -11,7 +11,7 @@
 // }
 // carName('Tagao');
 
-// // let and const 
+// // let and const
 // console.log(num);
 // let num = 5;
 // const num = 5;

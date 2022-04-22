@@ -1,4 +1,5 @@
 // 1.// Give an example where call apply bind is. required?
+
 // // var car = {
 // //     name: 'Audi',
 // //     model: 'S7',
